@@ -1,7 +1,7 @@
 {
-    "name": "vipmaa/laravel-generator",
+    "name": "w3spi5/laravel-generator-laravel-11",
     "type": "library",
-    "description": "InfyOm Laravel Generator Laravel 11",
+    "description": "InfyOm Laravel Generator for Laravel 11",
     "keywords": [
         "laravel",
         "api",
